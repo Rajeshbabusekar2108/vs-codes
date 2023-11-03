@@ -3,6 +3,6 @@
 # f.write("caleb")
 # f.close()
 
-b = "2"
+b = 2
 c = 2
 print(b + c)
